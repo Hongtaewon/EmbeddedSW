@@ -4,7 +4,7 @@
 int main()
 {
 	foo1();
-	printf("~~~~~~~~~~~~~");
+	printf("한글된다~~~\n");
 	foo2();
 	return 0;
 }
