@@ -4,6 +4,7 @@
 int main()
 {
 	foo1();
+	printf("~~~~~~~~~~~~~");
 	foo2();
 	return 0;
 }
